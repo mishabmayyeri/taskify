@@ -2,6 +2,9 @@
 
 A clean and modern task management application built with Flutter following Clean Architecture principles and BLoC state management pattern.
 
+Download APK
+📱 [Download APK from Google Drive](https://drive.google.com/drive/folders/1M1dXocGdBq69RDQvBgWFzOz8xaxq5ygU?usp=drive_link)
+
 ## Architecture
 
 This project strictly follows **Clean Architecture** with clear separation of concerns across three layers:
