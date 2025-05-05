@@ -80,6 +80,8 @@ dependencies:
   flutter_bloc: ^8.1.3
   get_it: ^7.6.4
   hive: ^4.0.0-dev.2
+  isar_flutter_libs: ^4.0.0-dev.13
+  path_provider: ^2.1.0
   shared_preferences: ^2.2.2
   fpdart: ^1.1.0
   uuid: ^4.1.0
