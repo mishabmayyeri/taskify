@@ -44,7 +44,7 @@ lib/
 │           ├── pages/       # App screens
 │           └── widgets/     # UI components
 │
-├── injection_container.dart # Dependency injection setup
+├── init_dependencies.dart # Dependency injection setup
 └── main.dart               # App entry point
 ```
 
