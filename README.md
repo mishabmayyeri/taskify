@@ -62,8 +62,8 @@ lib/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/taskify.git
-cd taskify
+git clone https://github.com/mishabmayyeri/taskify-flutter.git
+cd taskify-flutter
 ```
 
 2. Install dependencies:
